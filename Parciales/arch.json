@@ -1,0 +1,36 @@
+{
+  "Fruteria": [
+    {
+      "Frutas": [
+        {
+          "Nombre": "Mandarina",
+          "Cantidad": 30
+        },
+        {
+          "Nombre": "Pi\u00f1a",
+          "Cantidad": 10
+        },
+        {
+          "Nombre": "Naranja",
+          "Cantidad": 60
+        }
+      ]
+    },
+    {
+      "Verduras": [
+        {
+          "Nombre": "Tomate",
+          "Cantidad": 90
+        },
+        {
+          "Nombre": "Aguacate",
+          "Cantidad": 25
+        },
+        {
+          "Nombre": "Lechuga",
+          "Cantidad": 10
+        }
+      ]
+    }
+  ]
+}
